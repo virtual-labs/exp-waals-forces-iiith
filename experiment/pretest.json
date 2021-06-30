@@ -1,0 +1,40 @@
+[
+{"question":"1. The minimum distance at which the lennard jones potential is minimum is 2<sup>1/6</sup>r.", 
+"answers": {
+             "a":"True", 
+             "b":"False"
+               },
+"correctAnswer": "a"},
+
+{"question":"2. The second part of lennard jones potential denotes attraction",
+"answers": {
+             "a": "True",
+             "b": "False"
+            },
+            "correctAnswer":"a"},
+
+{"question":"3.The potential energy for a diatomic molecule at large seperations is zero", 
+"answers": {
+             "a":"True", 
+             "b":"False" 
+            },
+"correctAnswer": "a"},
+
+
+{"question":"4. The energy is minimum when a molcule is minimum when one molecule is at the center of another molecule.", 
+"answers": {
+             "a": "True", 
+             "b": "False" 
+            },
+"correctAnswer": "a"},
+
+{"question":"5.Lennard jones potential is a nonbonded interactions.", 
+"answers": {
+             "a":"True", 
+             "b":"False"
+            },
+"correctAnswer": "a"} 			  
+
+]
+
+
