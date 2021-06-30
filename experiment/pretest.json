@@ -18,7 +18,7 @@
              "a":"True", 
              "b":"False" 
             },
-"correctAnswer": "a"},
+"correctAnswer": "b"},
 
 
 {"question":"4. The energy is minimum when a molcule is minimum when one molecule is at the center of another molecule.", 
@@ -33,7 +33,7 @@
              "a":"True", 
              "b":"False"
             },
-"correctAnswer": "a"} 			  
+"correctAnswer": "b"} 			  
 
 ]
 
